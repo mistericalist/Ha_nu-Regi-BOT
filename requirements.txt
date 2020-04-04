@@ -1,6 +1,6 @@
 discord.py==0.16.12
-asyncio
-urlopen
-Request
-urllib
-bs4
+asyncio.py
+urlopen.py
+Request.py
+urllib.py
+bs4.py
