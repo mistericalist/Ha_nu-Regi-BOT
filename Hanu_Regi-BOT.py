@@ -1,4 +1,5 @@
 import discord
+import os
 import asyncio
 import random
 from discord import Member
@@ -47,4 +48,5 @@ async def on_message(message):
 
         await channel.send(sum)
 
-client.run('Njk1Mjc0NzUyNTM3MDAyMDM0.Xoc5iw.l_aAUL6rLQKQJcddCYiE68QpLs0')
+access_token = os.environ["BOT_TOKEN"]
+client.run('acess_token')
