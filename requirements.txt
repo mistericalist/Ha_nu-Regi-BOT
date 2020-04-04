@@ -1,6 +1,9 @@
-discord.py==0.16.12
-asyncio.py
-urlopen.py
-Request.py
-urllib.py
-bs4.py
+asyncio==3.4.3
+beautifulsoup4==4.8.2
+bs4==0.0.1
+discord==1.0.1
+discord.py==1.3.2
+parse==1.15.0
+requests==2.23.0
+urllib3==1.25.8
+urlopen==1.0.0
